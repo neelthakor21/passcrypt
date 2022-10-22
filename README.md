@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Using passcrypt user can be able to store and manage passwords in user folder protected with password given by user.
+Using passcrypt user will be able to store and manage passwords in user folder protected with password given by user.
 
 User can store and manage multiple types of passwords for different applications like facebook, Instagram, etc.
 
