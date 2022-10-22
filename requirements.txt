@@ -1,0 +1,5 @@
+cryptography
+argparse
+maskpass
+pyfiglet 
+termcolor
