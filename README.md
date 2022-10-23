@@ -29,9 +29,9 @@ pip install -r requirements.txt
 passcrypt.py [-E] [-A] [-P]
 ```
 > -E  ==> used for encrypt password
-
+>
 > -A  ==> used for add description for password
-
+>
 > -P  ==> used for add password for user folder NOTE ==>IF NOT GIVEN BY USER DEFAULT PASSWORD ASSIGN TO USER FOLDER WHICH IS "**user_folder_name@passcrypt**"<==
 
 ```bash
@@ -46,7 +46,7 @@ passcrypt.py [-D] [-V]
 ```
 
 > -D  ==> used for decrypt password
-
+>
 > -V  ==> used for show description entered by user while encrypting
 
 #### To delete existing folder/files
@@ -60,7 +60,7 @@ passcrypt.py [-df]
 ```
 
 > -dF  ==> used for delete user folder
-
+>
 > -df  ==> used for delete user application folder from user folder
 
 ## Output
