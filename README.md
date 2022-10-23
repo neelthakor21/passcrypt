@@ -20,8 +20,10 @@ For Download passcrypt tool.
 git clone https://github.com/neelthakor21/passcrypt
 ```
 ```bash
-cd ./passcrypt
+cd passcrypt
 pip install -r requirements.txt
+cd passcrypt
+python passcrypt.py
 ```
 ## Syntax
 #### To encrypt password and store it
