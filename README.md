@@ -10,7 +10,7 @@ User can store and manage multiple types of passwords for different applications
 
 passcrypt stores your user folder password using **hashing** technique to provide more security to your passwords. 
 
-# Installation
+## Installation
 
 You need to have Python version 3.4+
 
