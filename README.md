@@ -67,9 +67,9 @@ passcrypt.py [-df]
 
 ## Output
 
-#### password encryption
-
 ![image-1](screenshots/passcrypt-1.png)
+
+#### password encryption
 
 ![image-2](screenshots/passcrypt-2.png)
 
