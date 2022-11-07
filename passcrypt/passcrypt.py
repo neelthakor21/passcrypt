@@ -11,7 +11,7 @@ import platform, os
 # ---------------------------------############################------------------------------------------------------------
 
 dev_info = """
-                                        VERSION = 1.0
+                                        VERSION = 1.1
                                         DEVELOPED BY = NEEL THAKOR (Github ==> neelthakor21)
 """
 
