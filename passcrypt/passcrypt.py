@@ -21,13 +21,13 @@ if(platform.system() == 'Linux'):
     os.system('clear')
 
 line = "#"*120
+print(termcolor.colored(dev_info, 'red', attrs=['dark', 'bold']))
+print(termcolor.colored(line, 'cyan', attrs=['dark', 'bold']))
 
 try:
   print(termcolor.colored(line, 'cyan', attrs=['dark', 'bold']))
   banner_text = pyfiglet.figlet_format("PASSCRYPT", font='starwars', width=500)
   print(termcolor.colored(banner_text, 'green', attrs=['dark', 'bold']))
-  print(termcolor.colored(dev_info, 'red', attrs=['dark', 'bold']))
-  print(termcolor.colored(line, 'cyan', attrs=['dark', 'bold']))
 except:
   pass
 
